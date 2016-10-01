@@ -15,7 +15,7 @@
   (html5 [:head
           [:meta {:charset "utf-8"}]
           [:meta {:name "viewport" :content "width=device-width, initial-scale=1"}]
-          [:meta {:name "google-site-verification" :content "-V-t0-r5oQ7Qck8Bxa4oyLcA8DYqS208PfulwaZz41Q"}]
+          [:meta {:name "google-site-verification" :content "se4ZqdtW8-jeEFu5Wt9q6PhaQIUZw1zIQxJ7MxbUaFY"}]
           [:title "애월조단 - 안전 바이크 라이딩"]
           (map include-css
                ["https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
