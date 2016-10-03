@@ -13,5 +13,6 @@
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-youtube-square fa-lg"></i><a href="https://youtube.com/c/애월조단">https://youtube.com/c/애월조단</a></li>
   <li><i class="fa-li fa fa-instagram fa-lg"></i><a href="https://www.instagram.com/aewoljordan/">https://www.instagram.com/aewoljordan</a></li>
+  <li><i class="fa-li fa fa-facebook fa-lg"></i><a href="https://facebook.com/aewoljordan">https://facebook.com/aewoljordan</a></li>
   <li><i class="fa-li fa fa-home fa-lg"></i><a href="http://aewoljordan.com">http://aewoljordan.com</a></li>
 </ul>
