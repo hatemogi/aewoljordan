@@ -14,6 +14,10 @@
 
     $ boot watch build
 
+### For REPL
+
+    > (boot (task-name))
+
 ## Options
 
 ## Examples
