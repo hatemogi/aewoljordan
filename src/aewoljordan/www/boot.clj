@@ -139,5 +139,5 @@
   []
   (comp (markdown)
         (layout-task)
-        (task/sift :to-resource [#"CNAME"]) ; 사실 지금은 CNAME 파일 필요 없다
+        (task/sift :to-resource [#"CNAME" #"slides/.*"])
         (task/target :dir ["docs"])))

@@ -1,6 +1,6 @@
 (set-env!
  :source-paths #{"src"}
- :resource-paths #{"res"}
+ :resource-paths #{"res" "static"}
  :dependencies '[[org.clojure/clojure "1.8.0"]
                  [hiccup "1.0.5"]
                  [markdown-clj "0.9.89"]])

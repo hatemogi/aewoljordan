@@ -8,6 +8,13 @@
 * 일상 라이딩 영상 비디오블로깅
 * 타 본 바이크 리뷰
 
+## 발표자료
+
+* 오토바이, 위험하지 않나요? - 위험에 대처하는 라이더의 자세
+  * [유튜브 영상](https://youtu.be/GXYMQ1UB7VI), [슬라이드](slides/isdanger/)
+* 치명적 교차로 - 바이크 사고율 50% 낮추는 방법
+  * [유튜브 영상](https://youtu.be/LpFMjKLqy44), [슬라이드](slides/fatal-crossroad/)
+
 ## 링크
 
 <ul class="fa-ul">
