@@ -44,13 +44,14 @@
                        [:nav.masthead-nav
                         [:ul.nav.masthead-nav
                          [:li [:a {:href "index.html"} "소개"]]
-                         [:li [:a {:href "posts.html"} "글"]]
+                         [:li [:a {:href "posts/2016/0116-saferiding.html"} "글"]]
                          [:li [:a {:href "bikes.html"} "바이크"]]
                          [:li [:a {:href "contact.html"} "연락처"]]]]]]
                      [:div.inner.cover (into [:main] contents)]
                      [:div.mastfoot
                       [:div.inner
                        [:div.g-ytsubscribe {:data-channelid "UCX28LpDPiGlRHZ3WDWg8D9A" :data-layout "full" :data-count "hidden" :data-theme "dark"}]
+                       ; http://eepurl.com/cqAhsz (메일침프 가입폼 주소)
                        ]]]]]))
 
 (defn md->html "마크다운을 HTML로 변환"
