@@ -51,6 +51,7 @@
                      [:div.mastfoot
                       [:div.inner
                        [:div.g-ytsubscribe {:data-channelid "UCX28LpDPiGlRHZ3WDWg8D9A" :data-layout "full" :data-count "hidden" :data-theme "dark"}]
+                       [:div.mailsubscribe [:a.btn.btn-info {:href "http://eepurl.com/cqAhsz"} "뉴스레터 구독"]]
                        ; http://eepurl.com/cqAhsz (메일침프 가입폼 주소)
                        ]]]]]))
 
